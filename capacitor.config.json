@@ -1,0 +1,8 @@
+{
+  "appId": "com.aonekirana.app",
+  "appName": "Aone Kirana",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}

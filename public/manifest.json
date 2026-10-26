@@ -1,0 +1,16 @@
+{
+  "name": "Aone Kirana - Fresh Grocery",
+  "short_name": "Aone Kirana",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#15803d",
+  "description": "Fresh Grocery, Fast Delivery in Tikathali, Lalitpur",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
